@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jumeirah Lake Towers, Dubai",
+    "price": "212 500",
+    "detail": "Appartement 68.6m2 1 chambre entièrement meublé avec cuisine équipée situé à que 10 minutes du Dubaï Marina Appartement Dubaï",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Dubai Harbour, Dubai",
+    "price": "1 250 000",
+    "detail": "Appartement 106m2 2 chambres entièrement meublé Dubai",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Downtown Burj Dubai",
+    "price": "1 325 000 ",
+    "detail": "Appartement 182m2 3 chambres entièrement meublé à 10 minutes de Dubai Mall",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Downtown Burj Dubai",
+    "price": "1 037 500 ",
+    "detail": "Appartement 123m2 2 chambres entièrement meublé à 10 minutes de Dubai Mall",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Business Bay, Dubai",
+    "price": "225 000",
+    "detail": "Studio meublé de 45m2 à 5 minutes du centre",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Downtown Burj Dubai",
+    "price": "1 500 000",
+    "detail": "Appartement 276m2 3 chambres entièrement meublé à 10 minutes de Dubai Mall",
+    "image": "./r3.png"
+  }
+]
