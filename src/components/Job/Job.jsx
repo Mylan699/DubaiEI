@@ -1,7 +1,7 @@
 import React from 'react'
 import {Swiper, SwiperSlide, useSwiper} from 'swiper/react'
 import "swiper/css"
-import './Residencies.css'
+import './Job.css'
 import data from '../../utils/slider.json'
 import { sliderSettings } from '../../utils/common'
 
@@ -12,7 +12,7 @@ const Residencies = () => {
         <div className='paddings innerWidth r-container'>
             <div className='r-head flexColStart'>
                 <span className='orangeText'>Meilleurs choix</span>
-                <span className='primaryText'>Logements Populaires</span>
+                <span className='primaryText'>Créateur Populaires</span>
             </div>
 
             <Swiper {...sliderSettings}>

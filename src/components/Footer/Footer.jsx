@@ -4,12 +4,12 @@ const Footer = () => {
   return (
     <div className="f-wrapper">
       <div className="paddings innerWidth flexCenter f-container">
-        {/* left side */}
+        {/* côté gauche */}
         <div className="flexColStart f-left">
           <img src="./newLogo.png" alt="" width={120} />
           <span className="secondaryText">
           Notre vision est d'offrir à n'importe qui <br />
-          le meilleur endroit où vivre pour eux.
+          le droit d'entretenir son corps 
           </span>
         </div>
 

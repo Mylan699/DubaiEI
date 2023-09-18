@@ -1,7 +1,7 @@
 import Companies from "./components/Partenaires/Companies";
 import Header from "./components/EnTete/Header";
 import Hero from "./components/EnTeteBis/Hero";
-import Residencies from "./components/Residences/Residencies";
+import Job from "./components/Job/Job";
 import Value from "./components/Valeur/Value";
 import Contact from "./components/Contact/Contact";
 import GetStarted from "./components/Demarrer/GetStarted";
@@ -19,7 +19,7 @@ function App() {
       </div>
 
       <Companies/>
-      <Residencies/>
+      <Job/>
       <Value/>
       <Contact/>
       <GetStarted/>
